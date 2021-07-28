@@ -1,3 +1,4 @@
+![Diabetes_App_Banner](https://user-images.githubusercontent.com/49498445/127350285-8d2c42c1-754a-4644-8697-804c729700ee.gif)
 <h1 align="center">Early Stage Diabetes Risk Predictor App</h1>
 <h2 align="center"> A simple web app to estimate the risk of developing diabetes at an early stage </h2>
 
@@ -52,7 +53,7 @@ The dataset was collected using direct questionnaires from the patients of **Syl
 
 ## ![image](images/usage.png) Usage
 
-- Clone [Early_Stage_Diabetes_Risk_Predictor](https://github.com/AdiShenz98/Text_to_Handwriting-App) repository.
+- Clone [Early_Stage_Diabetes_Risk_Predictor](https://github.com/AdiShenz98/Early-Stage-Diabetes-Risk-Predictor-App) repository.
 - Open CMD in working directory.
 - Run following command.
 
