@@ -6,7 +6,7 @@ from eda_app import eda_main
 from ml_app import ml_main
 
 # Page Configuration
-PAGE_CONFIG = {"page_title":"Early Stage Diabetes Risk Predictor","page_icon":"images/favicon.png","layout":"wide"}
+PAGE_CONFIG = {"page_title":"Early Stage Diabetes Risk Predictor","page_icon":"images/favicon.png"}
 st.set_page_config(**PAGE_CONFIG,)
 
 

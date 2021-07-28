@@ -2,6 +2,9 @@
 <h1 align="center">Early Stage Diabetes Risk Predictor App</h1>
 <h2 align="center"> A simple web app to estimate the risk of developing diabetes at an early stage </h2>
 
+<p align="center"> 
+<a href="https://diabetes-risk-predictor-aditya.herokuapp.com/" rel="some text"><img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="adishenz98" /></a>
+</p>
 
 
 <p align="center"> 
