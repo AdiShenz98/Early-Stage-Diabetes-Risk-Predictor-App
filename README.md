@@ -4,6 +4,7 @@
 
 <p align="center"> 
 <a href="https://diabetes-risk-predictor-aditya.herokuapp.com/" rel="some text"><img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="adishenz98" /></a>
+<h4 align="center">Click ☝️ to check App!!</h4>
 </p>
 
 
